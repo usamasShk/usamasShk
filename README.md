@@ -56,11 +56,12 @@ I enjoy transforming ideas from **theory → code → impact**.
 
 ---
 
-## 📊 GitHub Overview (Stable & Professional)
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/usamasshk?template=classic&config.timezone=Asia/Karachi" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamasshk&theme=react-dark&hide_border=true"/>
 </p>
+
 
 
 ---

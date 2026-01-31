@@ -1,103 +1,86 @@
-<h1 align="center">Hi 👋, I'm Usama Shk</h1>
-<h3 align="center">
-AI Engineer | Computer Vision • Machine Learning • Generative AI • Video Transformers
-</h3>
+<h1 align="center">Usama Shk</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9C9&center=true&vCenter=true&width=700&lines=Computer+Vision+%7C+Video+Understanding;Deep+Learning+%7C+Transformers+%7C+GenAI;AI+Research+%7C+Real-World+Systems;Always+Learning+%7C+Building+Impact" />
+<b>AI Engineer · Computer Vision · Video Transformers · Generative AI</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9C9&center=true&vCenter=true&width=700&lines=Computer+Vision+%26+Video+Understanding;Transformers+%7C+GenAI+%7C+Deep+Learning;Research-Oriented+AI+Engineer;Building+Intelligent+Systems" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 Profile
 
-I’m an **AI-focused Computer Science student** with strong interests in **Computer Vision, Video Understanding, and Generative AI**.  
-I enjoy working at the intersection of **research and engineering**, building systems that move from papers → code → real-world use.
+I am an **AI-focused Computer Science student** working deeply in  
+**Computer Vision, Video Understanding, and Generative AI**.
 
-- 🔍 Focused on **Computer Vision & Video AI**
-- 🤖 Exploring **Transformers, Video Transformers, and Multimodal Models**
-- 🧪 Interested in **research-driven development**
-- 🚀 Goal: become a strong **AI / ML Engineer**
+My interests lie at the intersection of:
+- **Research papers**
+- **Efficient implementations**
+- **Real-world AI systems**
 
-🌐 **Portfolio:** [usamasshk.github.io/Portfolio](https://usamasshk.github.io/Portfolio)
+I enjoy transforming ideas from **theory → code → impact**.
 
----
-
-## 🔬 Current Focus Areas
-
-- 🖼️ Image & Video Understanding (CNNs, 3D CNNs)
-- 🎥 Video Transformers & Temporal Modeling
-- 🤖 Generative AI (Diffusion, Multimodal Models)
-- 📊 Model Optimization & Performance Analysis
-- 🧠 Deep Learning Research Implementations
+🌐 **Portfolio:**  
+🔗 https://usamasshk.github.io/Portfolio
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Expertise
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+- Computer Vision (2D / 3D CNNs)
+- Video Transformers & Temporal Modeling
+- Generative AI & Multimodal Models
+- Deep Learning Optimization
+- Research Prototyping & Experiments
+
+---
+
+## 🛠️ Technical Stack
+
+### Programming
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### AI / ML
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-### Web & Tools
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+### Tools
+![Git](https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview (Stable & Professional)
 
 <p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamasshk&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=usamasshk&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usamasshk&layout=compact&theme=radical&hide_border=true)
-
+  <img src="https://metrics.lecoq.io/usamasshk?template=classic&config.timezone=Asia/Karachi" />
 </p>
+
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamasshk&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-## 📫 Connect With Me
+## 📫 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/usama-asif-197358282/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/usamasshk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:usamaasif294@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usamasshk&style=flat-square&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=usamasshk&style=flat&color=blue" />
 </p>

@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 💡 Passionate about **AI, ML, and solving real-world problems
+- 💡 Passionate about **AI, ML, and solving real-world problems**
 - 🔭 Exploring **MMAction2, 3D CNNs**, and **Model Optimization**
 - 🌐 Portfolio: [usamasshk.github.io/Portfolio](https://usamasshk.github.io/Portfolio)
 
@@ -44,12 +44,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamasshk&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=usamasshk&theme=radical&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usamasshk&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=usamasshk&theme=radical&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamasshk&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamasshk&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@
   <a href="https://www.linkedin.com/in/usama-asif-197358282/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/usamasShk" target="_blank">
+  <a href="https://github.com/usamasshk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:usamaasif294@gmail.com">
@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usamasShk&style=flat-square&color=blue" alt="GitHub profile views" />
+  <img src="https://komarev.com/ghpvc/?username=usamasshk&style=flat-square&color=blue" alt="GitHub profile views" />
 </p>

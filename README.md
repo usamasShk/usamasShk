@@ -29,11 +29,13 @@ I enjoy transforming ideas from **theory → code → impact**.
 
 ## 🧠 Core Expertise
 
-- Computer Vision (2D / 3D CNNs)
-- Video Vision Transformers & Temporal Modeling
-- Generative AI & Multimodal Models
-- Deep Learning Optimization
-- Research Prototyping & Experiments
+- Computer Vision (2D / 3D CNNs)  
+- Video Vision Transformers & Temporal Modeling  
+- Generative AI & Multimodal Models  
+- Deep Learning Optimization  
+- MERN Stack Development  
+- Transformers (NLP & Vision)  
+- .NET & C# Development
 
 ---
 

@@ -44,12 +44,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamasShk&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=usamasShk&theme=radical&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usamasshk&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=usamasshk&theme=radical&hide_border=false" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamasShk&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamasshk&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---

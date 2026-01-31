@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9C9&center=true&vCenter=true&width=700&lines=Computer+Vision+%26+Video+Understanding;Transformers+%7C+GenAI+%7C+Deep+Learning;Research-Oriented+AI+Engineer;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9C9&center=true&vCenter=true&width=700&lines=Computer+Vision+%26+Video+Vison+Transformers;Transformers+%7C+GenAI+%7C+Deep+Learning;Research-Oriented+AI+Engineer;Building+Intelligent+Systems" />
 </p>
 
 ---

@@ -9,7 +9,6 @@
 
 ### 🧠 About Me
 
-- 🏫 6th Semester CS Student at FAST
 - 💡 Passionate about **AI, ML, and solving real-world problems
 - 🔭 Exploring **MMAction2, 3D CNNs**, and **Model Optimization**
 - 🌐 Portfolio: [usamasshk.github.io/Portfolio](https://usamasshk.github.io/Portfolio)

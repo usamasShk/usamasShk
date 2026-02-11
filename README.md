@@ -13,7 +13,7 @@
 ## 👨‍💻 Profile
 
 I am an **AI-focused Computer Science student** working deeply in  
-**Computer Vision, Video Vision Transformers,Transformers, Deep Learning and Generative AI**.
+**Computer Vision,Transformers,  Vision and Video Vision Transformers, Deep Learning and Generative AI**.
 
 My interests lie at the intersection of:
 - **Research papers**

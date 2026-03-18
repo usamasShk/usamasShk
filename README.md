@@ -59,8 +59,11 @@ I enjoy transforming ideas from **theory → code → impact**.
 
 | Repository | Description | Tech Stack | Updated |
 |-----------|------------|------------|---------|
-| **ComputerVision** | Deep learning & computer vision pipeline for classifying 7 skin lesion types using HAM10000 & ISIC 2018 datasets | Python · PyTorch · Jupyter | Jan 2026 |
-| 🔒 **SoccerVision (Private)** | AI platform for automated football highlights, event detection (goals, fouls, saves), player analytics & match insights | Python · PyTorch · CV | Active |
+| **FYP_Soccer_Highlights** | Final Year Project — automated football highlights generation using event detection & video understanding | Python · PyTorch · Computer Vision | Active |
+| ** Medical AI**| Deep learning & Computer Vision pipeline for classifying 7 skin lesion types using HAM10000 & ISIC 2018 datasets | Python · PyTorch · Jupyter | Jan 2026 |
+| **Masked-AutoEncoder** | Self-supervised learning using Vision Transformers (MAE) for image reconstruction and representation learning | Python · PyTorch  | 2025 |
+| **VisionCaption** | Image captioning model using CNN + LSTM architecture for generating natural language descriptions | Python · PyTorch | 2025 |
+| **Nexium_Usama-Asif_Resume-Tailor** | AI-based resume tailoring web app | TypeScript · AI Integration(n8n) | Jul 25, 2025 |
 
 ---
 
@@ -69,10 +72,8 @@ I enjoy transforming ideas from **theory → code → impact**.
 | Repository | Description | Tech Stack | Updated |
 |-----------|------------|------------|---------|
 | **Mug-and-Moment** | Coffee shop web application with interactive UI and features | JavaScript | Feb 2026 |
-| **Nexium_Usama-Asif_Resume-Tailor** | AI-based resume tailoring web app | TypeScript | Jul 25, 2025 |
 | **Nexium_UsamaAsif_Blog-Summarizer** | Blog summarization tool using AI | TypeScript | Jul 14, 2025 |
 | **Nexium_UsamaAsif_QuoteGenerator** | Dynamic quote generator | TypeScript | Jul 7, 2025 |
-| **Website** | General web development project | HTML | Apr 16, 2025 |
 | **Portfolio** | Personal portfolio website | CSS | Mar 24, 2025 |
 | **Web-Programming** | Landing page final project | HTML | Feb 11, 2025 |
 

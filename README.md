@@ -32,7 +32,6 @@ I enjoy transforming ideas from **theory → code → impact**.
 - MERN Stack Development  
 - Transformers (NLP & Vision)  
 - .NET & C# Development
-
 ---
 
 ## 🛠️ Technical Stack
@@ -56,20 +55,50 @@ I enjoy transforming ideas from **theory → code → impact**.
 
 ---
 
+## 🤖 AI / Deep Learning Projects
+
+| Repository | Description | Tech Stack | Updated |
+|-----------|------------|------------|---------|
+| **ComputerVision** | Deep learning & computer vision pipeline for classifying 7 skin lesion types using HAM10000 & ISIC 2018 datasets | Python · PyTorch · Jupyter | Jan 2026 |
+| 🔒 **SoccerVision (Private)** | AI platform for automated football highlights, event detection (goals, fouls, saves), player analytics & match insights | Python · PyTorch · CV | Active |
+
+---
+
+## 📂 Web Development Projects
+
+| Repository | Description | Tech Stack | Updated |
+|-----------|------------|------------|---------|
+| **Mug-and-Moment** | Coffee shop web application with interactive UI and features | JavaScript | Feb 2026 |
+| **Nexium_Usama-Asif_Resume-Tailor** | AI-based resume tailoring web app | TypeScript | Jul 25, 2025 |
+| **Nexium_UsamaAsif_Blog-Summarizer** | Blog summarization tool using AI | TypeScript | Jul 14, 2025 |
+| **Nexium_UsamaAsif_QuoteGenerator** | Dynamic quote generator | TypeScript | Jul 7, 2025 |
+| **Website** | General web development project | HTML | Apr 16, 2025 |
+| **Portfolio** | Personal portfolio website | CSS | Mar 24, 2025 |
+| **Web-Programming** | Landing page final project | HTML | Feb 11, 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usamasshk&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamasshk&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamasshk&theme=react-dark&hide_border=true"/>
 </p>
 
-
-
 ---
 
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/usama-asif-197358282/">
+  <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/usamasshk">

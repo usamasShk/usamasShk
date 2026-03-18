@@ -59,7 +59,7 @@ I enjoy transforming ideas from **theory → code → impact**.
 
 | Repository | Description | Tech Stack | Updated |
 |-----------|------------|------------|---------|
-| **FYP_Soccer_Highlights** | Final Year Project — automated football highlights generation using event detection & video understanding | Python · PyTorch · Computer Vision | Active |
+| **SoccerVision** | Co-founder · AI platform that turns 90-min football matches into automated highlights, event detection (goals/fouls/saves), player reels & H2H stats | Python · PyTorch · Computer Vision | Active |
 | ** Medical AI**| Deep learning & Computer Vision pipeline for classifying 7 skin lesion types using HAM10000 & ISIC 2018 datasets | Python · PyTorch · Jupyter | Jan 2026 |
 | **Masked-AutoEncoder** | Self-supervised learning using Vision Transformers (MAE) for image reconstruction and representation learning | Python · PyTorch  | 2025 |
 | **VisionCaption** | Image captioning model using CNN + LSTM architecture for generating natural language descriptions | Python · PyTorch | 2025 |

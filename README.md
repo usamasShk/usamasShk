@@ -1,7 +1,7 @@
 <h1 align="center">Usama Shk</h1>
 
 <p align="center">
-<b>AI Engineer · Computer Vision · Video Transformers · Generative AI</b>
+<b>AI Engineer · Computer Vision · Vision Transformers · Generative AI</b>
 </p>
 
 <p align="center">
@@ -12,7 +12,9 @@
 
 ## 👨‍💻 Profile
 
-Computer Science undergraduate Student with hands-on experience in software engineering, Exploring Computer Vision, deep learning, and Generative AI. Experienced in building end-to-end applications. Actively working on Vision Transformers and deep learning models, with a research-oriented mindset and strong problem-solving skills. Open to new opportunities and collaborations in the field of technology.
+AI Engineer specializing in Computer Vision, focused on building scalable and intelligent visual systems with a strong foundation in Computer Science. My work centers on developing efficient vision pipelines and creating vision-based interfaces that are reliable, scalable, and high-performing using modern architectures.
+
+Experienced in building end-to-end AI applications that transform visual data into meaningful insights and real-world solutions. Passionate about advancing visual intelligence to solve complex real-world challenges. Open to new opportunities and collaborations in the field of technology.
 
 I enjoy transforming ideas from **theory → code → impact**.
 

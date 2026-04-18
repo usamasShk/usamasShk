@@ -1,7 +1,7 @@
 <h1 align="center">Usama Shk</h1>
 
 <p align="center">
-<b>AI Engineer · Computer Vision · Vision Transformers · Generative AI</b>
+<b>AI Engineer · Computer Vision · Deep Learning · Generative AI</b>
 </p>
 
 <p align="center">

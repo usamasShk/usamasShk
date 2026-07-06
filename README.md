@@ -12,9 +12,9 @@
 
 ## 👨‍💻 Profile
 
-AI Engineer specializing in Computer Vision, focused on building scalable and intelligent visual systems with a strong foundation in Computer Science. My work centers on developing efficient vision pipelines and creating vision-based interfaces that are reliable, scalable, and high-performing using modern architectures.
+AI Engineer, focused on building scalable and intelligent  systems with a strong foundation in Computer Science. My work centers on developing efficient  pipelines and creating vision-based interfaces that are reliable, scalable, and high-performing using modern architectures.
 
-Experienced in building end-to-end AI applications that transform visual data into meaningful insights and real-world solutions. Passionate about advancing visual intelligence to solve complex real-world challenges. Open to new opportunities and collaborations in the field of technology.
+Experienced in building end-to-end AI applications that transform  data into meaningful insights and real-world solutions. Passionate about advancing  intelligence to solve complex real-world challenges. Open to new opportunities and collaborations in the field of technology.
 
 I enjoy transforming ideas from **theory → code → impact**.
 
@@ -29,7 +29,8 @@ I enjoy transforming ideas from **theory → code → impact**.
 - Video & Vision Transformers 
 - Generative AI & Multimodal Models  
 - Deep Learning Optimization  
-- MERN Stack Development  
+- MERN Stack Development
+- Agentic Development 
 - Transformers (NLP & Vision)  
 - .NET & C# Development
 ---
@@ -77,14 +78,6 @@ I enjoy transforming ideas from **theory → code → impact**.
 | **Portfolio** | Personal portfolio website | CSS | Mar 24, 2025 |
 | **Web-Programming** | Landing page final project | HTML | Feb 11, 2025 |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamasshk&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamasshk&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 

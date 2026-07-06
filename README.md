@@ -1,11 +1,11 @@
 <h1 align="center">Usama Shk</h1>
 
 <p align="center">
-<b>AI Engineer · Computer Vision · Deep Learning · Generative AI</b>
+<b>AI Engineer · Software Engineer · Computer Vision · Deep Learning · Generative AI</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9C9&center=true&vCenter=true&width=700&lines=Computer+Vision+%26+Video+Vison+Transformers;Transformers+%7C+GenAI+%7C+Deep+Learning;+AI+Engineer;Building+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9C9&center=true&vCenter=true&width=700&lines=Computer+Vision+%26+Video+Vison+Transformers;Transformers+%7C+GenAI+%7C+Deep+Learning;+AI+Engineer+Software+Engineer;Building+Intelligent+Systems" />
 </p>
 
 ---
